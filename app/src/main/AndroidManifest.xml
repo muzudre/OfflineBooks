@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.muzud.offlinebooks">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".JavaPage"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".CssPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".AboutPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".HtmlPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".JsPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".RubyPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".CplusPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".PhpPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".AndroidPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".PythonPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name=".AllBooks.android.android"
+            android:label="@string/title_activity_android"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AllBooks.java.one"
+            android:theme="@style/mainTheme"/>
+        <activity android:name=".AllBooks.java.two"
+            android:theme="@style/mainTheme"/>
+        <activity android:name=".AllBooks.java.three"
+            android:theme="@style/mainTheme"/>
+        <activity
+            android:name=".AllBooks.java.fore"
+            android:theme="@style/mainTheme"
+             />
+        <activity android:name=".AllBooks.java.five"
+            android:theme="@style/mainTheme"></activity>
+    </application>
+
+</manifest>

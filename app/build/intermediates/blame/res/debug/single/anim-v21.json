@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/muslimzabirov/.android/build-cache/fade4a77cb0f45d735588956d960b199ad960e69/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/muslimzabirov/.android/build-cache/fade4a77cb0f45d735588956d960b199ad960e69/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/muslimzabirov/.android/build-cache/fade4a77cb0f45d735588956d960b199ad960e69/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

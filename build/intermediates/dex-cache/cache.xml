@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_7e203f467873a3e38b17e068d04a503e032221e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_23b5ff76d5a82fc69aa4ebd4102326963bfcfe78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_c04a9200242832ad50e71389865270210470f255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d50f295100d34794c7cc562c00c645c3b7c1a09a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_62f48264cd39003b2eaff9ae48fe7f89491e8b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.github.barteksc/android-pdf-viewer/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da6913e3496b9c7f95f549ba4b25c25b9942c724">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.barteksc-android-pdf-viewer-2.1.0_477ce2e008aa4f538490a852f0b81976c6e14670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_da34a99790160ce5a808b3eaa8aef650ae280f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_aa6fe1864ce2fcbe1e66fd0f2cca7d95927c983d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha5/constraint-layout-solver-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73c7b3e257448abfb473f8833b05e7e055cb3fd9">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha5_558adbd2e05ed7a2845446ef885b14b3f0d6b5b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_27cacf20a9da110ead2178c2fcce36e5faedfc86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_9b3e969f7e312c6289c6e16856d97c03917b60d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_254118b20fb05e72d8ded89263f99d899b1496d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_bdde2f7904cd4cfdbb8bbfc5127e6c605e834e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_2c9921193695304f480bd05af45b8abacbc7c7e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a247ab4ca31e06f4403e4070e7658d6f57d43ba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f9549d44eafa14e06cbc7fc22a7a379138d4128">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d04605bed1b5e0eb6084588c82d84c22b3b1d53f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c5e84abe563dc2daf7098abc5a0b26cdc98d743">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0060b2250afaece239caf1d772ea075b2c3f0980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_10bf51928902b743fd6c31b83942d1a80f932f92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.2.1_340ad701a22410245e7c5942354bf25dd6002665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_bb167858a8609d2c9af7ce1e365938b3970e8d40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_a2c6d9dad72cb0254288639b65730c550f6a8af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9c2f03f5e8a91877d3b6e3d72881680ac0fbc24">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha5_dd6de0a675c0665e261a9be29d44dc026207d9e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_38c72f3996cba89f3ff4abccf5c3f95551f43c93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5f24b9acd446e75c6c4b45dfc4983edbb44aeec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_44dc4fba44af3112b18b623b4a0cbbe792a53844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_491300b2c2d10ab51a34953f63d679d031d4590d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4c989b15fd0f1245bb50b0bf37eaa00d2216d485/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5db96f4607d3f7829f61f9ab8696cd62b3bc260c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_38456cce0f034bbd55b86d99ea7373106736b104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.github.barteksc/pdfium-android/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c17272eb894dcb4217871365757ba21f605d35e8">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.barteksc-pdfium-android-1.4.0_182c935df3141045afff1bdcd041441a6eaaf8aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c431b0f1e67e7b9c7571396cb0d113f0d4b2cf6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_c93528bff82e404deffdf92831bee93c8a3cb538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_f2c3d048ef4f74dcba6745328a799faf4c8de351/classes.dex" />
+    </item>
+
+</items>

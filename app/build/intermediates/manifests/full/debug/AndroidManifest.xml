@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.muzud.offlinebooks"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.muzud.offlinebooks.SplashActivity"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.muzud.offlinebooks.MainActivity"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.JavaPage"
+            android:parentActivityName="com.example.muzud.offlinebooks.MainActivity"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.CssPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AboutPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.HtmlPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.JsPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.RubyPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.CplusPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.PhpPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AndroidPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.PythonPage"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AllBooks.android.android"
+            android:label="@string/title_activity_android"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AllBooks.java.one"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AllBooks.java.two"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AllBooks.java.three"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AllBooks.java.fore"
+            android:theme="@style/mainTheme" />
+        <activity
+            android:name="com.example.muzud.offlinebooks.AllBooks.java.five"
+            android:theme="@style/mainTheme" />
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

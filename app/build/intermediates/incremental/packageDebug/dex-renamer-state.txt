@@ -1,0 +1,7 @@
+#Tue Dec 13 11:09:15 MYT 2016
+base.0=/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d04605bed1b5e0eb6084588c82d84c22b3b1d53f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0060b2250afaece239caf1d772ea075b2c3f0980/classes.dex
+base.1=/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0060b2250afaece239caf1d772ea075b2c3f0980
+file.0=/home/muslimzabirov/AndroidStudioProjects/OfflineBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d04605bed1b5e0eb6084588c82d84c22b3b1d53f/classes.dex
